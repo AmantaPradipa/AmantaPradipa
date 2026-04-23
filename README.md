@@ -42,15 +42,12 @@ I'm deeply fascinated by **AI Agents** — from simulation and cloning to predic
 
 ### AI & Tooling
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<br/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+<img src="langchain-icon.webp" height="50" alt="LangChain" />
+<img src="chromadb-icon.png" height="50" alt="ChromaDB" />
 
 ### Database & Services
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=dark" />
-<br/>
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity%20Studio-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,vercel&theme=dark" />
+<img src="sanity-icon.png" height="50" alt="Sanity" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
