@@ -1,8 +1,6 @@
+![Banner](banner.png)
+
 <div align="center">
-
-<!-- BANNER -->
-
-<img src="banner.png" width="100%" />
 
 ### Hey there, I'm Amanta
 
@@ -127,8 +125,8 @@ To keep development accessible and sustainable, I utilize:
 ## Performance & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amantapradipa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amantapradipa&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=7c3aed&currStreakLabel=a78bfa" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amantapradipa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amantapradipa&theme=tokyonight&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=7c3aed&currStreakLabel=a78bfa&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
