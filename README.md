@@ -125,7 +125,6 @@ To keep development accessible and sustainable, I utilize:
 ## Performance & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amantapradipa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amantapradipa&theme=tokyonight&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=7c3aed&currStreakLabel=a78bfa&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
