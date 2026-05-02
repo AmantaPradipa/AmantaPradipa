@@ -1,164 +1,161 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amanta%20Pradipa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Builder%20%7C%20Informatika%20UNRAM&descAlignY=60&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%" />
 
-</div>
+<img src="banner.png" width="100%" />
 
-<div align="center">
+### Hey there, I'm Amanta
 
-### Hey there 👋 I'm Amanta
+**Computer Science student @ Universitas Mataram**
+Exploring the frontier of AI Agents and Open Source ecosystem.
 
-**Computer Science student @ Universitas Mataram** · Building things that think, act, and automate.
+I am an AI and Agent Enthusiast passionate about researching open-source ecosystems. I spend a lot of time exploring various repositories to understand emerging patterns and then building my own modular agent skills. My goal is to create tools that help bridge the gap between complex AI research and practical, developer-centric implementations.
 
-I'm deeply fascinated by **AI Agents** — from simulation and cloning to prediction systems and autonomous bots. I love turning ideas into working agents and shipping them as open-source projects using open-source LLMs.
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=amantapradipa&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)](https://github.com/amantapradipa)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amantapradipa&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/amantapradipa?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
+</p>
 
 </div>
 
 ---
 
-## 🧠 What I'm Into
+## Research & Focus
 
-- **AI Agent Development** — cloning, simulation, prediction engines, environment modeling, bot execution
-- **Open Source Everything** — if it's useful, it should be free and self-hostable
-- **Local-First AI** — running models fully on-device, no API key needed, no data leaving your machine
-- **Full-Stack Web** — from landing pages to AI-powered, API-driven platforms
+- **AI Agent Research** — Constant exploration of open-source agentic frameworks and reasoning patterns.
+- **Agentic Skill Building** — Developing modular skills that can be integrated into different AI environments.
+- **Open Source Infrastructure** — Researching and building upon the latest open-weights models to keep AI accessible.
+- **Practical Automation** — Applying agentic workflows to solve real-world development and architectural challenges.
 
 ---
 
-## 🛠️ Tech Stack
+## Agent Skills (Pro Max Series)
+
+I develop a series of modular agentic skills designed to enhance development workflows. These are research-driven datasets and logic kernels for specialized AI interactions.
+
+| Skill                      | Focus Area                                                              | Status                 |
+| :------------------------- | :---------------------------------------------------------------------- | :--------------------- |
+| **Agentic Workflow** | Multi-agent coordination and task orchestration patterns.               | In Development         |
+| **Backend Arch**     | Production-grade server architecture and system design rules.           | In Development         |
+| **QA Pro Max**       | Automated testing strategies, locator patterns, and CI/CD optimization. | In Development         |
+| **Deep Learning**    | Neural network architectures and training pipeline best practices.      | In Development         |
+| **Data/ML Pipeline** | End-to-end data processing and model deployment workflows.              | In Development         |
+| **UI/UX Pro Max**    | Design systems, accessibility, and modern interface patterns.           | *Research Reference* |
+
+*Note: UI/UX Pro Max is utilized as a research reference for analyzing industry-standard design patterns.*
+
+---
+
+## Tech Stack
 
 <div align="center">
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
 ### Backend & Runtime
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,mysql,postgresql,supabase&theme=dark" />
 
 ### AI & Tooling
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<img src="langchain-icon.webp" height="50" alt="LangChain" />
-<img src="chromadb-icon.png" height="50" alt="ChromaDB" />
 
-### Database & Services
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<br/>
+<img src="langchain-icon.webp" height="50" alt="LangChain" />   <img src="chromadb-icon.png" height="50" alt="ChromaDB" />
+
+### DevOps & Services
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel&theme=dark" />
+<br/>
 <img src="sanity-icon.png" height="50" alt="Sanity" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
-
 </div>
 
 ---
 
-## 🤖 Open Source LLMs I Work With
+## My AI Stack
 
-> **Philosophy:** Every project I build is designed to run **100% locally** — no cloud dependency, no usage cost, no data leaks. Open weights, open future.
+I focus my research and development on **Google's Gemma family**, specifically leveraging **Gemma 4** for its balance of efficiency and reasoning capability.
+
+### Primary Model
+
+- **Gemma 4** (Scout & Maverick): My main driver for complex multi-step agents and long-context reasoning research.
+
+### API & Infrastructure
+
+To keep development accessible and sustainable, I utilize:
+
+- **Google AI Studio** — Primary source for high-performance free API access.
+- **OpenRouter** — For unified model routing and experimenting with free-tier open models.
+- **Ollama** — For local execution and private research environments.
+
+---
+
+## Current Projects
+
+### Cubeno Education
+
+> **LMS focused on IoT & Technology Modules**
+> A platform designed to provide structured learning paths for technical education. I'm currently researching how AI agents can assist in content generation and student progress tracking within this ecosystem.
+
+`Next.js` `Node.js` `Python` `AI-assisted learning`
+
+---
+
+### Ascent Studio
+
+> **Production-Ready App Templates & Custom SaaS**
+> A studio focused on developing high-quality foundations for web and mobile applications. It serves as my testing ground for integrating agentic skills into real-world SaaS architectures.
+
+`React` `Next.js` `React Native` `Node.js` `Agentic Skills`
+
+---
+
+## Highlights
+
+| Topic                         | Description                                                                      |
+| ----------------------------- | -------------------------------------------------------------------------------- |
+| **Juara Vibe Coding**   | Upcoming Participant in Google's Vibe Coding Season 1.                           |
+| **Agentic Research**    | Deep diving into open-source repos to extract and implement new agent behaviors. |
+| **MineHive Bot**        | Former Developer/Admin for automated systems on community servers.               |
+| **Hytale Modding**      | Java-based plugin and mod development for future game mechanics.                 |
+| **Juara GCP Season 12** | Participant in Google Cloud's Indonesian developer community challenges.         |
+
+---
+
+## Performance & Stats
 
 <div align="center">
-
-### 🌟 Google Gemma Family — My Primary Stack
-
-| Model | Size | Best For |
-|-------|------|----------|
-| **Gemma 3** | 1B / 4B / 12B / 27B | Multilingual reasoning, instruction following, agents |
-| **Gemma 4** *(Scout & Maverick)* | MoE architecture | Long-context tasks, complex multi-step agents |
-| **CodeGemma** | 2B / 7B | Code generation, completion, and debugging |
-| **PaliGemma** | 3B | Vision + language multimodal tasks |
-
-</div>
-
-I'm particularly bullish on **Gemma** as a local-first model family — Google releases them with permissive licenses, strong multilingual support (great for Indonesian dev context), and they run efficiently on consumer hardware.
-
-### 🔧 How I Run & Route Models Locally
-
-**[Ollama](https://ollama.com/)** — My go-to local model runtime. Pull and run Gemma (or any open model) in one command:
-```bash
-ollama run gemma3:12b
-ollama run gemma3:4b
-```
-Zero setup, runs on CPU or GPU, exposes an OpenAI-compatible API at `localhost:11434`. All my agents talk to this.
-
-**[OpenRouter](https://openrouter.ai/)** — When I need cloud fallback or want to route between models (Gemma, Mistral, LLaMA, etc.) without managing multiple API keys. One endpoint, unified interface, pay-per-token — great for prototyping before going fully local.
-
----
-
-## 🏗️ Currently Building
-
-### 🎓 Cubeno Education
-> **Learning Management System (LMS) with IoT & Tech Modules**
-
-An LMS platform focused on tech education — structured like Dicoding, with courses, assessments, and progress tracking. Cubeno specializes in IoT and related engineering topics, giving students a guided learning path from fundamentals to hands-on projects. Built for learners who want structured, self-paced technical education with real-world relevance.
-
-`Next.js` `Node.js` `Python` `AI-assisted content`
-
----
-
-### 🚀 Ascent Studio
-> **Web & Mobile App Templates · Custom SaaS · AI-Integrated Products**
-
-A studio focused on shipping production-ready app templates and custom SaaS solutions — fast. Whether it's a web app, mobile app, or a full AI-integrated product, Ascent Studio provides the foundation so builders can skip boilerplate and go straight to what matters. Every product ships with AI features baked in, powered by open-source models wherever possible.
-
-`React` `Next.js` `React Native` `Node.js` `AI Agents` `Open Source LLMs` `SaaS`
-
----
-
-## 🚀 Other Projects & Highlights
-
-> All agent projects are built to **run locally** using open-source LLMs via Ollama or OpenRouter. No proprietary model lock-in.
-
-| 🏷️ | Description |
-|---|---|
-| 🤖 **AI Agents (Local)** | Autonomous agents for simulation, prediction, and task execution — powered by Gemma running on Ollama |
-| 🧬 **Agent Cloning & Simulation** | Multi-agent environments where agents observe, act, and learn — all on-device |
-| 🔮 **Prediction Pipelines** | LLM-driven forecasting systems with structured output using open models |
-| 🎮 **MineHive Bot** | Admin & Ex-Developer of automated bots for [MineHive.id](https://minehive.id/) — Indonesia's Minecraft community server |
-| ⚔️ **Hytale Plugin & Mod Dev** | Building plugins and mods for Hytale using Java — from game mechanics to custom systems |
-| ☁️ **Juara GCP Season 12** | Participant in Google Cloud's flagship Indonesian developer competition |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amantapradipa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" height="165" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=amantapradipa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amantapradipa&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=7c3aed&currStreakLabel=a78bfa" height="170" />
 </div>
 
 <div align="center">
 
-### 🗣️ Most Used Languages
+### Most Used Languages
 
-![Python](https://img.shields.io/badge/Python-28%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-30%25-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-20%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-17%25-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-14%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-15%25-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-10%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-6%25-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-3%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-2%25-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![React](https://img.shields.io/badge/React-10%25-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amantapradipa)
-[![MineHive](https://img.shields.io/badge/MineHive.id-4CAF50?style=for-the-badge&logo=minecraft&logoColor=white)](https://minehive.id/)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=footer" width="100%" />
 
 </div>
