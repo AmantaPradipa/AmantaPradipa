@@ -148,8 +148,7 @@ To keep development accessible and sustainable, I utilize:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amantapradipa)
-
-[![VizSpec]](https://vizspec-juaravibecoding-cloudrun-746614985931.asia-southeast2.run.app/)
+<a href="https://vizspec-juaravibecoding-cloudrun-746614985931.asia-southeast2.run.app/"><img src="Logo.png" height="28" alt="VizSpec" /></a>
 
 </div>
 
