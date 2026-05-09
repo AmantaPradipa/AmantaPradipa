@@ -149,7 +149,7 @@ To keep development accessible and sustainable, I utilize:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amantapradipa)
 
-[![VizSpec](Logo.png)](https://vizspec-juaravibecoding-cloudrun-746614985931.asia-southeast2.run.app/)
+[![VizSpec]](https://vizspec-juaravibecoding-cloudrun-746614985931.asia-southeast2.run.app/)
 
 </div>
 
